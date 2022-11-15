@@ -64,3 +64,13 @@ segment_osrm_time – This is the OSRM segment time. Time taken by the subset of
 segment_osrm_distance – This is the OSRM distance. Distance covered by subset of the package delivery
 
 segment_factor – Unknown field
+
+
+
+Concept Used:
+
+- Feature Creation
+- Relationship between Features
+- Column Normalization /Column Standardization
+- Handling categorical values
+- Missing values - Outlier treatment / Types of outliers
