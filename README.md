@@ -70,6 +70,7 @@ segment_factor – Unknown field
 Concept Used:
 
 - Feature Creation
+- Hypothesis testing
 - Relationship between Features
 - Column Normalization /Column Standardization
 - Handling categorical values
